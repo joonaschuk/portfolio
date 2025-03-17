@@ -21,7 +21,7 @@ Alla olevasta taulukosta näet saatavilla olevat politiikkatemplatet, niiden kuv
 
 | Politiikka | Kuvaus | Tila |
 |------------|----------|------|
-| Acceptable Use Policy | Hyväksyttävää käyttöä koskeva politiikka | Tulossa |
+| Acceptable Use Policy | Hyväksyttävää käyttöä koskeva politiikka | Työn alla... |
 | Access Control Policy | Käyttöoikeuksien hallintaan liittyvä politiikka | Tulossa |
 | Asset Management Policy | Tietoturvaomaisuuden hallintaan liittyvä politiikka | Tulossa |
 | Backup Policy | Varautumiseen liittyvä varmuuskopiointipolitiikka | Tulossa |
@@ -33,7 +33,7 @@ Alla olevasta taulukosta näet saatavilla olevat politiikkatemplatet, niiden kuv
 | Data Protection Policy | Henkilötietojen suojaamista koskeva politiikka | Tulossa |
 | Data Retention Policy | Tietojen säilyttämistä koskeva politiikka | Tulossa |
 | Information Classification and Handling Policy | Tietojen luokitteluun ja käsittelyyn liittyvä politiikka | Tulossa |
-| Information Security Policy | Organisaation yleinen tietoturvapolitiikka | [📄 Lataa](linkki_tiedostoon) |
+| Information Security Policy | Organisaation yleinen tietoturvapolitiikka | Työn alla... |
 | Information Transfer Policy | Tiedonsiirtoa koskeva politiikka | Tulossa |
 | Mobile and Teleworking Policy | Mobiili- ja etätyöskentelyä koskeva politiikka | Tulossa |
 | Password Policy | Salasanavaatimuksia koskeva politiikka | Tulossa |
