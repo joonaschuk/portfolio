@@ -33,7 +33,7 @@ Alla olevasta taulukosta näet saatavilla olevat politiikkatemplatet, niiden kuv
 | Data Protection Policy | Henkilötietojen suojaamista koskeva politiikka | Tulossa |
 | Data Retention Policy | Tietojen säilyttämistä koskeva politiikka | Tulossa |
 | Information Classification and Handling Policy | Tietojen luokitteluun ja käsittelyyn liittyvä politiikka | Tulossa |
-| Information Security Policy | Organisaation yleinen tietoturvapolitiikka | Työn alla... |
+| Information Security Policy | Organisaation yleinen tietoturvapolitiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/tietoturvapolitiikka.docx) |
 | Information Transfer Policy | Tiedonsiirtoa koskeva politiikka | Tulossa |
 | Mobile and Teleworking Policy | Mobiili- ja etätyöskentelyä koskeva politiikka | Tulossa |
 | Password Policy | Salasanavaatimuksia koskeva politiikka | Tulossa |
