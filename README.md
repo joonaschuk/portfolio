@@ -21,7 +21,7 @@ Alla olevasta taulukosta näet saatavilla olevat politiikkatemplatet, niiden kuv
 
 | Politiikka | Kuvaus | Tila |
 |------------|----------|------|
-| Acceptable Use Policy | Hyväksyttävää käyttöä koskeva politiikka | Työn alla... |
+| Acceptable Use Policy | Hyväksyttävää käyttöä koskeva politiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/hyvaksyttavan_kayton_politiikka.docx) |
 | Access Control Policy | Käyttöoikeuksien hallintaan liittyvä politiikka | Tulossa |
 | Asset Management Policy | Tietoturvaomaisuuden hallintaan liittyvä politiikka | Tulossa |
 | Backup Policy | Varautumiseen liittyvä varmuuskopiointipolitiikka | Tulossa |
