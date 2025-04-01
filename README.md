@@ -1,4 +1,4 @@
-# ISO 27001 - Politiikkapohjia (Suomeksi) 🫡
+# ISO 27001 - Politiikkapohjia (Suomeksi)
 
 
 Tervetuloa tähän avoimeen GitHub-projektiin, jossa julkaistaan suomenkielisiä tietoturvapolitiikkapohjia ISO 27001 -standardin mukaisesti. 
@@ -21,10 +21,11 @@ Alla olevasta taulukosta näet saatavilla olevat politiikkatemplatet, niiden kuv
 
 | Politiikka | Kuvaus | Tila |
 |------------|----------|------|
-| Acceptable Use Policy | Hyväksyttävää käyttöä koskeva politiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/hyvaksyttavan_kayton_politiikka.docx) |
-| Access Control Policy | Käyttöoikeuksien hallintaan liittyvä politiikka | Tulossa |
+| Acceptable Use Policy | Hyväksyttävää käyttöä koskeva politiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/acceptable_use_policy.docx) |
+| Access Control Policy | Käyttöoikeuksien hallintaan liittyvä politiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/access_control_policy.docx) |
 | Asset Management Policy | Tietoturvaomaisuuden hallintaan liittyvä politiikka | Tulossa |
 | Backup Policy | Varautumiseen liittyvä varmuuskopiointipolitiikka | Tulossa |
+| BYOD Policy | Omien laitteiden käyttöä ja tietoturvavaatimuksia koskeva politiikka. | Työn alla... |
 | Change Management Policy | Muutostenhallintapolitiikka | Tulossa |
 | Clear Desk and Clear Screen Policy | Puhdas työpöytä ja puhdas näyttö -politiikka | Tulossa |
 | Cloud Service Policy | Pilvipalveluiden käyttöä koskeva politiikka | Tulossa |
@@ -33,7 +34,7 @@ Alla olevasta taulukosta näet saatavilla olevat politiikkatemplatet, niiden kuv
 | Data Protection Policy | Henkilötietojen suojaamista koskeva politiikka | Tulossa |
 | Data Retention Policy | Tietojen säilyttämistä koskeva politiikka | Tulossa |
 | Information Classification and Handling Policy | Tietojen luokitteluun ja käsittelyyn liittyvä politiikka | Tulossa |
-| Information Security Policy | Organisaation yleinen tietoturvapolitiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/tietoturvapolitiikka.docx) |
+| Information Security Policy | Organisaation yleinen tietoturvapolitiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/information_security_policy.docx) |
 | Information Transfer Policy | Tiedonsiirtoa koskeva politiikka | Tulossa |
 | Mobile and Teleworking Policy | Mobiili- ja etätyöskentelyä koskeva politiikka | Tulossa |
 | Password Policy | Salasanavaatimuksia koskeva politiikka | Tulossa |
