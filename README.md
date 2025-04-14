@@ -25,13 +25,13 @@ Alla olevasta taulukosta näet saatavilla olevat politiikkatemplatet, niiden kuv
 | Access Control Policy | Käyttöoikeuksien hallintaan liittyvä politiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/access_control_policy.docx) |
 | Asset Management Policy | Tietoturvaomaisuuden hallintaan liittyvä politiikka | Tulossa |
 | Backup Policy | Varautumiseen liittyvä varmuuskopiointipolitiikka | Tulossa |
-| BYOD Policy | Omien laitteiden käyttöä ja tietoturvavaatimuksia koskeva politiikka. | Työn alla... |
+| BYOD Policy | Omien laitteiden käyttöä ja tietoturvavaatimuksia koskeva politiikka. | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/byod_policy.docx) |
 | Change Management Policy | Muutostenhallintapolitiikka | Tulossa |
 | Clear Desk and Clear Screen Policy | Puhdas työpöytä ja puhdas näyttö -politiikka | Tulossa |
 | Cloud Service Policy | Pilvipalveluiden käyttöä koskeva politiikka | Tulossa |
 | Cryptographic Control and Encryption Policy | Salaustekniikoiden hallinnan politiikka | Tulossa |
 | Cryptographic Key Management Policy | Salausavainten hallintapolitiikka | Tulossa |
-| Data Protection Policy | Henkilötietojen suojaamista koskeva politiikka | Tulossa |
+| Data Protection Policy | Henkilötietojen suojaamista koskeva politiikka | Työn alla... |
 | Data Retention Policy | Tietojen säilyttämistä koskeva politiikka | Tulossa |
 | Information Classification and Handling Policy | Tietojen luokitteluun ja käsittelyyn liittyvä politiikka | Tulossa |
 | Information Security Policy | Organisaation yleinen tietoturvapolitiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/information_security_policy.docx) |
