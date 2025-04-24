@@ -1,8 +1,8 @@
-## Politiikkapohjia (Suomeksi)
+# Politiikkapohjia (Suomeksi)
 
 Tässä osiossa julkaistaan suomenkielisiä tietoturvapolitiikkapohjia mm. ISO 27001 -standardin mukaisesti.
 
-## 📖 Projektin kuvaus
+## 📖 Kuvaus
 Tämän projektin tavoitteena on luoda ja tarjota kattava kokoelma ISO 27001 -standardin mukaisia politiikoita ja dokumentteja suomen kielellä. Kaikki dokumentit ovat vapaasti ladattavissa ja muokattavissa organisaatioiden tarpeisiin. Tämä auttaa erityisesti suomalaisia yrityksiä ja organisaatioita rakentamaan ja kehittämään tietoturvan hallintajärjestelmää (ISMS) tehokkaasti ja standardin vaatimusten mukaisesti.
 
 > Tämä repository on henkilökohtainen harjoitustyö ja osa kasvavaa portfoliotani. Tavoitteenani on kehittää osaamistani hallinnollisessa tietoturvassa ja politiikkojen kirjoittamisessa.
