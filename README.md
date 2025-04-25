@@ -1,6 +1,6 @@
 # Hallinnollisen tietoturvan portfolio
 
-Tämä repositorion tavoitteena on koota yhteen hallinnolliseen tietoturvaan liittyviä dokumenttipohjia, käytännön ohjeistuksia ja oppimateriaaleja. Painopiste on erityisesti ISO/IEC 27001 -standardissa, mutta mukana on myös yleisemmin sovellettavia tietoturvan hallintaan liittyviä sisältöjä.
+Tämän repositorion tavoitteena on koota yhteen hallinnolliseen tietoturvaan liittyviä dokumenttipohjia, käytännön ohjeistuksia ja oppimateriaaleja. Painopiste on alussa ehkä enemmän erityisesti ISO/IEC 27001 -standardissa, mutta mukana on myös yleisemmin sovellettavia tietoturvan hallintaan liittyviä sisältöjä.
 
 Repositorion tarkoituksena on toimia henkilökohtaisena portfoliona ja oppimisympäristönä matkalla kohti hallinnollisen tietoturvan asiantuntijuutta.
 
