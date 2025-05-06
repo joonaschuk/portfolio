@@ -28,7 +28,7 @@ Alla olevasta taulukosta näet saatavilla olevat politiikkatemplatet, niiden kuv
 | Cryptographic Control and Encryption Policy | Salaustekniikoiden hallinnan politiikka | Tulossa |
 | Cryptographic Key Management Policy | Salausavainten hallintapolitiikka | Tulossa |
 | Data Protection Policy | Henkilötietojen suojaamista koskeva politiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/politiikkapohjat/data_protection_policy.docx) |
-| Data Retention Policy | Tietojen säilyttämistä koskeva politiikka | Tulossa |
+| Data Retention Policy | Tietojen säilyttämistä koskeva politiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/politiikkapohjat/data_retention_policy.docx) |
 | Information Classification and Handling Policy | Tietojen luokitteluun ja käsittelyyn liittyvä politiikka | Tulossa |
 | Information Security Policy | Organisaation yleinen tietoturvapolitiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/politiikkapohjat/information_security_policy.docx) |
 | Information Transfer Policy | Tiedonsiirtoa koskeva politiikka | Tulossa |
