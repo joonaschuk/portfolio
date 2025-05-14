@@ -20,4 +20,4 @@ Muita hallinnollisen tietoturvan tueksi laadittuja pohjia, kuten riskirekisteri,
 ---
 
 > 🫣 **Huomautus:**
-> Tämä repositorio on osa jatkuvaa oppimisprosessia. Vaikka tavoitteena on tuottaa mahdollisimman tarkkaa ja käytännönläheistä sisältöä, osa tiedoista voi sisältää virheitä, koska olen vasta opiskelemassa aiheita.
+> Tämä repositorio on osa jatkuvaa oppimisprosessia. Vaikka tavoitteena on tuottaa mahdollisimman tarkkaa ja käytännönläheistä sisältöä, osa tiedoista voi sisältää virheitä tai puutteita.
