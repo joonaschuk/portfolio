@@ -32,7 +32,7 @@ Alla olevasta taulukosta näet saatavilla olevat politiikkatemplatet, niiden kuv
 | Information Classification and Handling Policy | Tietojen luokitteluun ja käsittelyyn liittyvä politiikka | Tulossa |
 | Information Security Policy | Organisaation yleinen tietoturvapolitiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/politiikkapohjat/information_security_policy.docx) |
 | Information Transfer Policy | Tiedonsiirtoa koskeva politiikka | Tulossa |
-| Mobile and Teleworking Policy | Mobiili- ja etätyöskentelyä koskeva politiikka | Tulossa |
+| Mobile Device Policy | Organisaation tarjoamia mobiililaitteita koskeva politiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/politiikkapohjat/mobile_device_policy.docx) |
 | Password Policy | Salasanavaatimuksia koskeva politiikka | Tulossa |
 | Patch Management Policy | Päivitysten hallintaan liittyvä politiikka | Tulossa |
 | Secure Development Policy | Turvallisen kehityksen politiikka | Tulossa |
