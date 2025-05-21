@@ -19,4 +19,4 @@ Tämä osio sisältää hallinnollisen tietoturvan ja ISO/IEC 27001:2022 -standa
 ---
 
 > 🫣 **Huomautus:**
-> Tämä repositorio on osa jatkuvaa oppimisprosessia. Vaikka tavoitteena on tuottaa mahdollisimman tarkkaa ja käytännönläheistä sisältöä, osa tiedoista voi sisältää virheitä, koska olen vasta opiskelemassa aiheita.
+> Tämä repositorio on osa jatkuvaa oppimisprosessia. Vaikka tavoitteena on tuottaa mahdollisimman tarkkaa ja käytännönläheistä sisältöä, osa tiedoista voi sisältää virheitä tai puutteita.
