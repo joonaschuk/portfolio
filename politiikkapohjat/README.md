@@ -34,7 +34,7 @@ Alla olevasta taulukosta näet saatavilla olevat politiikkatemplatet, niiden kuv
 | Information Transfer Policy | Tiedonsiirtoa koskeva politiikka | Tulossa |
 | Mobile Device Policy | Organisaation tarjoamia mobiililaitteita koskeva politiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/politiikkapohjat/mobile_device_policy.docx) |
 | Password Policy | Salasanavaatimuksia koskeva politiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/politiikkapohjat/password_policy.docx) |
-| Patch Management Policy | Päivitysten hallintaan liittyvä politiikka | Tulossa |
+| Patch Management Policy | Päivitysten hallintaan liittyvä politiikka | [📄Lataa](https://github.com/joonaschuk/joonaschuk/blob/main/politiikkapohjat/patching_policy.docx) |
 | Secure Development Policy | Turvallisen kehityksen politiikka | Tulossa |
 | Third Party Supplier Security Policy | Kolmansien osapuolten tietoturvaa koskeva politiikka | Tulossa |
 
